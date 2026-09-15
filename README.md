@@ -28,3 +28,6 @@ An AI-powered extension for Visual Studio Code that integrates Google's Gemini A
 git clone [https://github.com/gavi2007/gemeni--visual-studio.git](https://github.com/gavi2007/gemeni--visual-studio.git)
 cd gemeni--visual-studio
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
